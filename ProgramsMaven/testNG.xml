@@ -1,0 +1,8 @@
+<suite name="MyTestSuite">
+	<test name="TestSuiteDemo">
+		<classes>
+			<class name="Automation.AssertionLogin"></class>
+			<class name="Automation.BasicAsertion"></class>
+		</classes>
+	</test>
+</suite>

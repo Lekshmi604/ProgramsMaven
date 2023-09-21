@@ -1,0 +1,10 @@
+<suite name="MyTestSuite">
+	<test name="TestSuiteDemo">
+		<parameter name="parameter1" value="7"></parameter>
+		<parameter name="parameter2" value="17"></parameter>
+		<classes>
+			<class name="Automation.ParamerterSuite"></class>
+			
+		</classes>
+	</test>
+</suite>
